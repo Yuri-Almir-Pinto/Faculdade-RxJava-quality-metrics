@@ -1,5 +1,4 @@
 # Métricas de qualidade do projeto "RxJava"
-![image](https://github.com/Yuri-Almir-Pinto/Faculdade-RxJava-quality-metrics/assets/106698705/8a458795-47ff-4702-bd59-f5151b058f2e)
 
 ### 1 - Quantidade de commits
 ![Quantidade de commits do projeto](http://blob.firecast.com.br/blobs/RDMLGKNH_3077254/65c183c74896ff30018d024d.jpg)
